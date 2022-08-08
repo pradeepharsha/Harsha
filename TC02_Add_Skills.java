@@ -7,7 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class TC02_Add_Skills {
+public class TC02_Add_Skills 
+{
 	
 	WebDriver driver;
 	

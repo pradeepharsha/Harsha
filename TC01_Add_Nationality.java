@@ -7,7 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class TC01_Add_Nationality {
+public class TC01_Add_Nationality
+ {
 	
 	 WebDriver driver ;
 	
